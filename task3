@@ -1,0 +1,2 @@
+a, b = float(input("Введите a: ")), float(input("Введите b: "))
+print("Среднее арифметическое a и b = "+str((a+b)/2)
