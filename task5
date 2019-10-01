@@ -1,0 +1,2 @@
+a, b = abs(float(input())), abs(float(input()))
+print("Сумма модулей = "str(a+b)+"n\ Разность модулей = "+str(a-b)+"n\ Произведение модулей = "+str(a*b)+"n\ Частное модулей = "+str(a/b))
